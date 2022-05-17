@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fetching-Github-Data/static/css/main.073c9b0a.css",
+    "main.js": "/Fetching-Github-Data/static/js/main.d184299e.js",
+    "static/js/787.e4fcb47c.chunk.js": "/Fetching-Github-Data/static/js/787.e4fcb47c.chunk.js",
+    "index.html": "/Fetching-Github-Data/index.html",
+    "main.073c9b0a.css.map": "/Fetching-Github-Data/static/css/main.073c9b0a.css.map",
+    "main.d184299e.js.map": "/Fetching-Github-Data/static/js/main.d184299e.js.map",
+    "787.e4fcb47c.chunk.js.map": "/Fetching-Github-Data/static/js/787.e4fcb47c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d184299e.js"
+  ]
+}
